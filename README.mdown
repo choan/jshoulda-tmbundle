@@ -1,0 +1,10 @@
+# jShoulda TextMate Bundle
+
+Three simple snippets to use [jShoulda](http://jshoulda.scriptia.net) on TextMate
+
+* `con<tab>` generates a root context
+* `co<tab>` generates an inner context
+* `sh<tab>` generates a `should` call
+
+Watch this [30 seconds screencast](http://www.vimeo.com/2049956). Say wow.
+

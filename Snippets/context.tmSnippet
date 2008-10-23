@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>context("${1:A context}", {${2:
+  setup: function() {
+    $3
+  \}
+  }},
+  should("${4:run tests}", function() {
+    $0
+  })
+)</string>
+	<key>name</key>
+	<string>Context</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>co</string>
+	<key>uuid</key>
+	<string>CDDD7B77-10AC-4602-BCB0-0337C3A35C0C</string>
+</dict>
+</plist>
