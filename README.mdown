@@ -1,6 +1,6 @@
 # jShoulda TextMate Bundle
 
-Three simple snippets to use [jShoulda](http://jshoulda.scriptia.net) on TextMate
+Three simple snippets to write [jShoulda](http://jshoulda.scriptia.net) tests on TextMate
 
 * `con<tab>` generates a root context
 * `co<tab>` generates an inner context
