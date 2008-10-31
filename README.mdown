@@ -6,5 +6,7 @@ Three simple snippets to write [jShoulda](http://jshoulda.scriptia.net) tests on
 * `co<tab>` generates an inner context
 * `sh<tab>` generates a `should` call
 
+Combine with the [JavaScript Unit Testing TextMate bundle](http://github.com/drnic/javascript-unittest-tmbundle/tree/master) to obtain complete happiness.
+
 Watch this [30 seconds screencast](http://www.vimeo.com/2049956). Say wow.
 
