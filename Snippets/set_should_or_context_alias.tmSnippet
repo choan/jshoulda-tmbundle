@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>set${1:S}${1/(S)|(C)|.*/(?1:hould)(?2:ontext)/}Alias('${2:$TM_SELECTED_TEXT}')</string>
+	<key>name</key>
+	<string>set Should / Context Alias</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>ali</string>
+	<key>uuid</key>
+	<string>4BFFF5A3-978C-4F45-8F33-B3330FC3E589</string>
+</dict>
+</plist>
