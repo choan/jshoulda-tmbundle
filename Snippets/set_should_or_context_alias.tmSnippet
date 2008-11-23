@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>set${1:S}${1/(S)|(C)|.*/(?1:hould)(?2:ontext)/}Alias('${2:$TM_SELECTED_TEXT}')</string>
+	<string>set${1:S}${1/(S)|(C)|.*/(?1:hould)(?2:ontext)/}Alias('${2:$TM_SELECTED_TEXT}'${3:, '${4:$2}'})</string>
 	<key>name</key>
 	<string>set Should / Context Alias</string>
 	<key>scope</key>
