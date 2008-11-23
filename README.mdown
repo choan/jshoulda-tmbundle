@@ -5,6 +5,12 @@ Three simple snippets to write [jShoulda](http://jshoulda.scriptia.net) tests on
 * `con<tab>` generates a root context
 * `co<tab>` generates an inner context
 * `sh<tab>` generates a `should` call
+* `ali<tab>` writes the `setWhateverAlias` call for you
+* `jst<tab>` inserts
+  * the `script` tags needed to use jShoulda (referencing both jsunittest.js and jshoulda.js)
+  * or the `div#id=testlog` needed by the JsUnitTest logger
+* `jsh<tab>` for when you need to write jShoulda without mistakes
+* `uni<tab>` makes a call to `unifyRunners`.
 
 Combine with the [JavaScript Unit Testing TextMate bundle](http://github.com/drnic/javascript-unittest-tmbundle/tree/master) to obtain complete happiness.
 
