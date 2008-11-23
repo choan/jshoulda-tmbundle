@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>unifyRunners($1)$0</string>
+	<key>name</key>
+	<string>Unify runners</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>uni</string>
+	<key>uuid</key>
+	<string>AE551061-ABA2-43A0-A1E5-79A21C69BA31</string>
+</dict>
+</plist>
