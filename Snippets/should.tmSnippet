@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should("${1:do something}", function() {
+	<string>${TM_JSHOULDA_SHOULD:should}("${1:do something}", function() {
   $2
 })</string>
 	<key>name</key>

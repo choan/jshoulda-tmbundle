@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>context("${1:A context}", {${2:
+	<string>${TM_JSHOULDA_CONTEXT:context}("${1:A context}", {${2:
   setup: function() {
     $3
   \}
   }},
-  should("${4:run tests}", function() {
+  ${TM_JSHOULDA_SHOULD:should}("${4:run tests}", function() {
     $0
   })
 )();</string>
