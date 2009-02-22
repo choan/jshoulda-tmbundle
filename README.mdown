@@ -12,7 +12,20 @@ Three simple snippets to write [jShoulda](http://jshoulda.scriptia.net) tests on
 * `jsh<tab>` for when you need to write jShoulda without mistakes
 * `uni<tab>` makes a call to `unifyRunners`.
 
+## Using describe/it (or any other alias) instead of context/should
+
+Set TextMate configuration variables as needed (Textmate -> Preferences -> Advanced -> Shell Variables):
+
+* `TM_JSHOULDA_CONTEXT` to the word used to create contexts (usually "context" or "describe")
+* `TM_JSHOULDA_SHOULD` to the word used to create testcases (usually "should" or "it")
+
+Customize the triggers if you think you'll feel more comfortable. By default the bundles uses "context" and "should" with triggers "con", "co" and "sh".
+
+## A better experience
+
 Combine with the [JavaScript Unit Testing TextMate bundle](http://github.com/drnic/javascript-unittest-tmbundle/tree/master) to obtain complete happiness.
+
+## Is it fast?
 
 Watch this [30 seconds screencast](http://www.vimeo.com/2049956). Say wow.
 
